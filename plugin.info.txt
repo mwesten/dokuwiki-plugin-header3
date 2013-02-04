@@ -1,0 +1,7 @@
+base   header3
+author Max Westen
+email  max[at]dlmax[dot]org
+date   2013-02-04
+name   Header3 Plugin
+desc   Allows markup syntax in the header(like header2) and keeps your linebreaks (like xbr)
+url    http://www.dokuwiki.org/plugin:header3
