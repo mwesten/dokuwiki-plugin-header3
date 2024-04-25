@@ -1,3 +1,8 @@
+> [!CAUTION]
+> **This repository is archived**  
+> This Dokuwiki Plugin Header:3 became unusable a long time ago, due to changes in Dokuwiki and in PHP.
+>
+
 # Header3 Plugin for DokuWiki
 
 This plugin renders the linebreaks in the output exactly as entered while editing the page.
